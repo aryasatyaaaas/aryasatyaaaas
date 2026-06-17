@@ -1,5 +1,4 @@
 # 🖐️Hello , Im Aryasatya
-🖥️  Frontend Developer<br>🎓Studying Information Systems at Bina Nusantara University<br>🧑‍💻Tech Enthusiast
 
 
 ## 🌐 Socials:
